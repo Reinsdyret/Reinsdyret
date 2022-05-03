@@ -26,6 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinsdyret&show_icons=true&locale=en&theme=radical" alt="reinsdyret" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reinsdyret&" alt="reinsdyret" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reinsdyret&theme=radical" alt="reinsdyret" /></p>
 
 <p>Credit to <a href="https://github.com/rahuldkjain">Rahul Jain</a> for this readme</p>

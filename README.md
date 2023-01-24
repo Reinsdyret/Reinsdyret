@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [My Bachelors degree](https://www.uib.no/studier/BAMN-DTEK)
 
-- 🌱 I’m currently learning **Functional programming (Haskell), Algorithms and structures for programming and basic operating systems**
+- 🌱 I’m currently learning **<a href="https://www.uib.no/emne/INF222">Fundamentals of programming languages</a>, <a href="https://www.uib.no/emne/INF112">Software development</a>**
 
-- 💬 Ask me about **Python, Java or anything (I'm good at google)**
+- 💬 Ask me about **Anything (I'm good at google)**
 
 - 📫 How to reach me **Lars.Haukland@gmail.com**
 

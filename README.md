@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lars Møen Haukland</h1>
-<h3 align="center">A 2nd year computer science student from Norway</h3>
+<h3 align="center">A 3rd year computer science student from Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinsdyret&label=Profile%20views&color=0e75b6&style=flat" alt="reinsdyret" /> </p>
 
 - 🔭 I’m currently working on [My Bachelors degree](https://www.uib.no/studier/BAMN-DTEK)
 
-- 🌱 I’m currently learning **<a href="https://www.uib.no/emne/INF222">Fundamentals of programming languages</a>, <a href="https://www.uib.no/emne/INF112">Software development</a>**
+- 🌱 I’m currently learning **<a href="https://www.uib.no/emne/INF234">Algorithms</a>, <a href="https://www.uib.no/emne/INF226">Software Security</a> and <a href="https://www.uib.no/en/course/INF214">Concurrent programming</a>**
 
 - 💬 Ask me about **Anything (I'm good at google)**
 

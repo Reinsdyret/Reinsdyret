@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Bachelors degree](https://www.uib.no/studier/BAMN-DTEK)
 
-- 🌱 I’m currently learning **<a href="https://www4.uib.no/emne/INF235">Complexity Theory</a>, <a href="https://www4.uib.no/emne/INF237">Algorithm Development</a> and <a href="https://www4.uib.no/en/course/MAT121">Linear Algebra</a>**
+- 🌱 I’m currently learning **<a href="https://www4.uib.no/emner/INF235">Complexity Theory</a>, <a href="https://www4.uib.no/emner/INF237">Algorithm Development</a> and <a href="https://www4.uib.no/emner/MAT121">Linear Algebra</a>**
 
 - 💬 Ask me about **Anything (I'm good at google)**
 

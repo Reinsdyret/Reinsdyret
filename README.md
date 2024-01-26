@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Lars.Haukland@gmail.com**
 
-- ⚡ Fun fact **I type on colemak DH**
+- ⚡ Fun fact **I type on colemak DH** using the [cheapino](https://github.com/tompi/cheapino) and others.
 
 - Website: https://haukland.rocks 
 

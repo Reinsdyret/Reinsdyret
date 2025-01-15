@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Masters](https://www.uib.no/studier/MAMN-INF/AG/plan)
 
-- 🌱 I’m currently learning **<a href="https://www4.uib.no/en/courses/INF334">Parameterized Complexity</a>, <a href="https://www4.uib.no/en/courses/INF207">Social network theory</a> and <a href="https://www4.uib.no/en/courses/INF264">Machine learning</a>**
+- 🌱 I’m currently learning **<a href="https://www4.uib.no/en/courses/INF334">Parameterized Complexity</a>, <a href="https://www4.uib.no/en/courses/INF236">Parallel Programming</a> and <a href="https://www4.uib.no/en/courses/INF273">Metaheuristics</a>**
 
 - 💬 Ask me about **Anything (I'm good at googling)**
 

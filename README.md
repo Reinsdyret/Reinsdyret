@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **<a href="https://www4.uib.no/en/courses/INF334">Parameterized Complexity</a>, <a href="https://www4.uib.no/en/courses/INF236">Parallel Programming</a> and <a href="https://www4.uib.no/en/courses/INF273">Metaheuristics</a>**
 
-- 💬 Ask me about **Anything (I'm good at googling)**
+- 💬 Ask me about **Anything (I'm good at googling, but will end up asking chatGPT)**
 
 - 📫 How to reach me **Lars.Haukland@gmail.com**
 

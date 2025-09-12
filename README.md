@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on my Master Thesis and the [NovaJs engine](https://trynova.dev/). This is a javascript engine written in rust with data oriented design principles, this work is in the [INF319](https://www4.uib.no/studier/emner/inf319) course.
 
-- 💬 Ask me about **Anything (I'm good at googling, but will end up asking chatGPT)**
+- 💬 Ask me about **Algorithms, Web development, Rust and anything else**
 
 - 📫 How to reach me **Lars.Haukland@gmail.com**
 

@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I type on colemak DH** using the [cheapino](https://github.com/tompi/cheapino) and others.
 
-- Website: https://haukland.me 
+- Website: https://reinsdyret.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

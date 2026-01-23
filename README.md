@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on [My Masters](https://www.uib.no/studier/MAMN-INF/AG/plan) in Algorithms.
 - 🗎  My Master Thesis is focusing on algorithms for detecting and facilitating exchanges in dynamic allocation systems. It's inspired by the paper of Ingrid Huitfeld et. al, read the article about it [here](https://www.dn.no/innlegg/helse/leger/fastleger/enkelt-a-forbedre-fastlegeordningen-med-en-algoritme/2-1-1692543?url=%2Finnlegg%2Fhelse%2Fleger%2Ffastleger%2Fenkelt-a-forbedre-fastlegeordningen-med-en-algoritme%2F2-1-1692543&statusCode=404&statusMessage=%5Bnuxt%5D+instance+unavailable&message=%5Bnuxt%5D+instance+unavailable&stack=).
 
-- 🌱 I’m currently working on my Master Thesis and the [NovaJs engine](https://trynova.dev/). This is a javascript engine written in rust with data oriented design principles, this work is in the [INF319](https://www4.uib.no/studier/emner/inf319) course.
-
 - 💬 Ask me about **Algorithms, Web development, Rust and anything else**
 
 - 📫 How to reach me **Lars.Haukland@gmail.com**

@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lars Møen Haukland</h1>
-<h3 align="center">A 5th year computer science student from Norway</h3>
+<h3 align="center">A Software Developer @ Bekk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinsdyret&label=Profile%20views&color=0e75b6&style=flat" alt="reinsdyret" /> </p>
 
-- 🔭 I’m currently working on [My Masters](https://www.uib.no/studier/MAMN-INF/AG/plan) in Algorithms.
-- 🗎  My Master Thesis is focusing on algorithms for detecting and facilitating exchanges in dynamic allocation systems. It's inspired by the paper of Ingrid Huitfeld et. al, read the article about it [here](https://www.dn.no/innlegg/helse/leger/fastleger/enkelt-a-forbedre-fastlegeordningen-med-en-algoritme/2-1-1692543?url=%2Finnlegg%2Fhelse%2Fleger%2Ffastleger%2Fenkelt-a-forbedre-fastlegeordningen-med-en-algoritme%2F2-1-1692543&statusCode=404&statusMessage=%5Bnuxt%5D+instance+unavailable&message=%5Bnuxt%5D+instance+unavailable&stack=).
-
-- 💬 Ask me about **Algorithms, Web development, Rust and anything else**
+- 💬 Ask me about **Algorithms, Rust, Fullstack development and anything else**
 
 - 📫 How to reach me **Lars.Haukland@gmail.com**
 

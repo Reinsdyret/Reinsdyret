@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lars Møen Haukland</h1>
-<h3 align="center">A Software Developer @ Bekk</h3>
+<h3 align="center">Software Developer @ Bekk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinsdyret&label=Profile%20views&color=0e75b6&style=flat" alt="reinsdyret" /> </p>
 
